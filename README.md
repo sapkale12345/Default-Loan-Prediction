@@ -1,4 +1,4 @@
-# Loan Default Prediction using Machine Learning
+# Loan Default Prediction Using Machine Learning with Imbalanced Class Handling 
 
 ## Project Overview
 This project focuses on predicting loan default risk using statistical analysis and machine learning techniques.  
